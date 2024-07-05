@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Zundu Apeuré","id":1013580,"patch":3.0,"zoneid":2100,"coords":[17.81,17.7],"areaid":2126,"quests":[67457]},"partials":[{"type":"quest","id":"67457","obj":{"i":67457,"n":"Le sacrifice des Vundu","g":60,"l":2100,"s":5710}}]}

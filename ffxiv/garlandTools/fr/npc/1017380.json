@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mog Récolteur","id":1017380,"patch":3.3,"zoneid":2002,"coords":[19.14,7.11],"areaid":2048,"quests":[67835]},"partials":[{"type":"quest","id":"67835","obj":{"i":67835,"n":"L'ivresse du travail","g":38,"l":2002,"s":18,"r":1}}]}

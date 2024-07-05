@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Ramuh","id":29870000002832,"quest":1,"zoneid":1363,"lvl":"50","drops":[8019],"instance":20022},"partials":[{"type":"item","id":"8019","obj":{"i":8019,"n":"Ramuh-Kugel","l":80,"c":3188,"t":48}},{"type":"instance","id":"20022","obj":{"i":20022,"n":"Götterdämmerung - Ramuh","c":61804,"t":"Prüfungen","min_lvl":50,"max_lvl":50,"min_ilvl":65}}]}

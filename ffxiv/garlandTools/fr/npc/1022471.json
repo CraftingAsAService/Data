@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Troisième Disciple","id":1022471,"patch":4.05,"zoneid":2410,"coords":[16.92,33.12],"areaid":2800,"quests":[68282],"alts":[1022474]},"partials":[{"type":"quest","id":"68282","obj":{"i":68282,"n":"Introduction à la barbidétection","g":72,"l":2410,"s":4220}},{"type":"npc","id":"1022474","obj":{"i":1022474,"n":"Troisième Disciple","l":2410,"q":1}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Wächter-Mogry","id":1017415,"patch":3.3,"zoneid":2002,"coords":[21.97,17.87],"areaid":2047,"quests":[67845],"alts":[1017411]},"partials":[{"type":"quest","id":"67845","obj":{"i":67845,"n":"Bleibende Werte","g":38,"l":2002,"s":28,"r":1}},{"type":"npc","id":"1017411","obj":{"i":1017411,"n":"Wächter-Mogry","l":2002,"q":1}}]}

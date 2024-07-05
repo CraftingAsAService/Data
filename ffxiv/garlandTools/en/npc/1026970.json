@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Montblanc","id":1026970,"patch":4.5,"zoneid":2404,"coords":[10.08,12.12],"areaid":2930,"quests":[68723,68724]},"partials":[{"type":"quest","id":"68723","obj":{"i":68723,"n":"The Path of Most Resistance","g":15,"l":2404,"s":70,"f":1}},{"type":"quest","id":"68724","obj":{"i":68724,"n":"Welcome to Their Jungle","g":15,"l":2404,"s":80,"f":1}}]}

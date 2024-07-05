@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Fundamentierer-Mogry","id":1017471,"patch":3.3,"zoneid":2002,"coords":[14.75,28.65],"areaid":2095,"quests":[67828,67841]},"partials":[{"type":"quest","id":"67828","obj":{"i":67828,"n":"Eine fundamental wichtige Aufgabe","g":38,"l":2002,"s":11,"r":1}},{"type":"quest","id":"67841","obj":{"i":67841,"n":"Ein Brunnen für die Ewigkeit","g":38,"l":2002,"s":24,"r":1}}]}

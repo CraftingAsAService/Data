@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Chocobo Géant Sauvage","id":1013404,"patch":3.0,"zoneid":2000,"coords":[36.86,9.74],"areaid":2003,"quests":[67334],"alts":[1013403]},"partials":[{"type":"quest","id":"67334","obj":{"i":67334,"n":"Le sale boulot","g":61,"l":2000,"s":5302}},{"type":"npc","id":"1013403","obj":{"i":1013403,"n":"Chocobo Géant Sauvage","l":2000,"q":1}}]}

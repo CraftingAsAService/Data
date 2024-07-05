@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Shiva","id":31000000002994,"quest":1,"zoneid":1399,"lvl":"50","drops":[9377],"instance":20024},"partials":[{"type":"item","id":"9377","obj":{"i":9377,"n":"Larme de Shiva","l":90,"c":3159,"t":48}},{"type":"instance","id":"20024","obj":{"i":20024,"n":"L'Amphithéâtre d'Akh Afah (brutal)","c":61804,"t":"Défis","min_lvl":50,"max_lvl":50,"min_ilvl":80}}]}

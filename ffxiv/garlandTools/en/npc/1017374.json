@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mirthless Moogle","id":1017374,"patch":3.3,"zoneid":2002,"coords":[21.67,17.24],"areaid":2047,"quests":[67833],"alts":[1017371]},"partials":[{"type":"quest","id":"67833","obj":{"i":67833,"n":"A Little Pick-Me-Up","g":38,"l":2002,"s":16,"r":1}},{"type":"npc","id":"1017371","obj":{"i":1017371,"n":"Mirthless Moogle","l":2002,"q":1}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mog Craintif","id":1015141,"patch":3.0,"zoneid":2002,"coords":[29.82,20.77],"areaid":2014,"quests":[67370],"alts":[1013433]},"partials":[{"type":"quest","id":"67370","obj":{"i":67370,"n":"La relève en déroute","g":63,"l":2002,"s":5410}},{"type":"npc","id":"1013433","obj":{"i":1013433,"n":"Mog Craintif","l":2002,"q":1}}]}

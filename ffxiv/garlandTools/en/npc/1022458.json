@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Lupin Looter","id":1022458,"patch":4.05,"zoneid":2410,"coords":[25.72,31.52],"areaid":2753,"quests":[68269]},"partials":[{"type":"quest","id":"68269","obj":{"i":68269,"n":"Wolves and Weeds","g":72,"l":2410,"s":4070,"f":1}}]}

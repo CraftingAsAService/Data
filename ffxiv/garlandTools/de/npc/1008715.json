@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Fernöstlich Aussehend[a] Mann","id":1008715,"patch":2.2,"zoneid":42,"coords":[20.1,24.68],"areaid":376,"quests":[66851,66852]},"partials":[{"type":"quest","id":"66851","obj":{"i":66851,"n":"Fehltritt mit Folgen","g":39,"l":44,"s":5,"f":1}},{"type":"quest","id":"66852","obj":{"i":66852,"n":"Der Teufel mit dem weißen Haar","g":39,"l":42,"s":6,"f":1}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"ゴブリン族の見張り番","id":1012419,"patch":3.0,"zoneid":2082,"coords":[7.71,8.79],"areaid":2084,"quests":[67194],"talk":[{"lines":["Pshhh... Shkohhh...<br>By order of Chief Slowfix, none may pass without permission."]}]},"partials":[{"type":"quest","id":"67194","obj":{"i":67194,"n":"マトーヤの洞窟","g":3,"l":2082,"s":83}}]}

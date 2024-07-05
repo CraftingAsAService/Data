@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Ohl Ahs","id":1014163,"patch":3.0,"zoneid":2000,"coords":[14.8,20.76],"areaid":2025,"quests":[67352],"alts":[1014169]},"partials":[{"type":"quest","id":"67352","obj":{"i":67352,"n":"Between Friends and Family","g":61,"l":2000,"s":5324}},{"type":"npc","id":"1014169","obj":{"i":1014169,"n":"Ohl Ahs","l":2000,"q":1}}]}

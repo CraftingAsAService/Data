@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Fluff-Mogry","id":1018428,"patch":3.5,"zoneid":2002,"coords":[26.13,36.69],"areaid":2042,"quests":[67938],"alts":[1018427]},"partials":[{"type":"quest","id":"67938","obj":{"i":67938,"n":"Die Ruhe des heiligen Berges","g":64,"l":2082,"s":6200,"f":1}},{"type":"npc","id":"1018427","obj":{"i":1018427,"n":"Fluff-Mogry","l":2082,"q":1}}]}

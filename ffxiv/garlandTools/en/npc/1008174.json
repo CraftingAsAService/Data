@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Injured Mare","id":1008174,"patch":1.0,"zoneid":57,"coords":[16.52,31.01],"areaid":143,"quests":[65730]},"partials":[{"type":"quest","id":"65730","obj":{"i":65730,"n":"Unicorn Power","g":55,"l":39,"s":300}}]}

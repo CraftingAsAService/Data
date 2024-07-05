@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mamool Ja Mercenary Captain","id":1010436,"patch":2.51,"zoneid":34,"coords":[28.26,23.57],"areaid":239,"quests":[65779],"alts":[1010437]},"partials":[{"type":"quest","id":"65779","obj":{"i":65779,"n":"A Qiqirn Always Pays His Debts","g":48,"l":27,"s":20}},{"type":"npc","id":"1010437","obj":{"i":1010437,"n":"Mamool Ja Mercenary Captain","l":34,"q":1}}]}

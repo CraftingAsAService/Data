@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Insektenschwarm","id":1025171,"patch":4.2,"zoneid":2406,"coords":[28.5,26.1],"areaid":2634,"quests":[68591],"alts":[1025170]},"partials":[{"type":"quest","id":"68591","obj":{"i":68591,"n":"Bissige Insekten","g":20,"l":2406,"s":19,"r":1}},{"type":"npc","id":"1025170","obj":{"i":1025170,"n":"Insektenschwarm","l":2406,"q":1}}]}

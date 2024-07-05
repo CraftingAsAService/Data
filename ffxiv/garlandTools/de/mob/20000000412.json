@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Velociraptor","id":20000000412,"zoneid":350,"lvl":"34","drops":[4767,5310,5322]},"partials":[{"type":"item","id":"4767","obj":{"i":4767,"n":"Raptor-Schenkel","l":32,"c":2811,"t":45}},{"type":"item","id":"5310","obj":{"i":5310,"n":"Raptor-Haut","l":44,"c":3212,"t":52}},{"type":"item","id":"5322","obj":{"i":5322,"n":"Raptor-Sehne","l":40,"c":3117,"t":52}}]}

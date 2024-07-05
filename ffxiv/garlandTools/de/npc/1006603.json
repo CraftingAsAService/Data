@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Sabotendrich","id":1006603,"patch":1.0,"zoneid":54,"coords":[17.56,22.5],"areaid":103,"quests":[66558],"alts":[1007632]},"partials":[{"type":"quest","id":"66558","obj":{"i":66558,"n":"Love me Sabotender","g":56,"l":45,"s":470}},{"type":"npc","id":"1007632","obj":{"i":1007632,"n":"Sabotendrich","l":45,"q":1}}]}

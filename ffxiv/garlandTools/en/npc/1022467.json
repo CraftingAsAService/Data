@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Old Namazu Master","id":1022467,"patch":4.0,"zoneid":2410,"coords":[16.39,31.84],"areaid":2800,"quests":[68282],"alts":[1022468]},"partials":[{"type":"quest","id":"68282","obj":{"i":68282,"n":"By Our Powers Combined","g":72,"l":2410,"s":4220}},{"type":"npc","id":"1022468","obj":{"i":1022468,"n":"Old Namazu Master","l":2410,"q":1}}]}

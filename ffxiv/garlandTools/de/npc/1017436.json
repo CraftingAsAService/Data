@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Whei Ahf","id":1017436,"patch":3.3,"zoneid":2002,"coords":[15.72,29.08],"areaid":2095,"quests":[67858],"alts":[1017432]},"partials":[{"type":"quest","id":"67858","obj":{"i":67858,"n":"Starke Freunde","g":37,"l":2002,"s":3,"f":1}},{"type":"npc","id":"1017432","obj":{"i":1017432,"n":"Whei Ahf","l":2002,"q":2}}]}

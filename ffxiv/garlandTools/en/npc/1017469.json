@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Monitoring Moogle","id":1017469,"patch":3.3,"zoneid":2002,"coords":[16.21,8.46],"areaid":2048,"quests":[67855],"alts":[1017468]},"partials":[{"type":"quest","id":"67855","obj":{"i":67855,"n":"Tremble Finishing","g":38,"l":2002,"s":38,"r":1}},{"type":"npc","id":"1017468","obj":{"i":1017468,"n":"Monitoring Moogle","l":2002,"q":1}}]}

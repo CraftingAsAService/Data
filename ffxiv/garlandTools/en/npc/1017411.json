@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mystified Moogle","id":1017411,"patch":3.3,"zoneid":2002,"coords":[33.6,14.75],"areaid":2044,"quests":[67842],"alts":[1017415]},"partials":[{"type":"quest","id":"67842","obj":{"i":67842,"n":"Let There Be Light","g":38,"l":2002,"s":25,"r":1}},{"type":"npc","id":"1017415","obj":{"i":1017415,"n":"Mystified Moogle","l":2002,"q":1}}]}

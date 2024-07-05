@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Novv","id":1008921,"patch":2.2,"title":"Clutchfather","zoneid":33,"coords":[3.16,37.76],"areaid":173,"quests":[66914],"alts":[1005937]},"partials":[{"type":"quest","id":"66914","obj":{"i":66914,"n":"Tel Père de frai, tel fils","g":29,"l":33,"s":0,"f":1}},{"type":"npc","id":"1005937","obj":{"i":1005937,"n":"Novv","l":33,"q":8,"k":3,"t":"Clutchfather"}}]}

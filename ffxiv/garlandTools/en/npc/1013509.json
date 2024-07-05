@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Commoving Moogle","id":1013509,"patch":3.0,"zoneid":2002,"coords":[19.46,23.29],"areaid":2015,"quests":[67381],"alts":[1013512]},"partials":[{"type":"quest","id":"67381","obj":{"i":67381,"n":"No Country for Young Moogles","g":63,"l":2002,"s":5515}},{"type":"npc","id":"1013512","obj":{"i":1013512,"n":"Commoving Moogle","l":2002,"q":1}}]}

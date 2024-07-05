@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Géant À La Tenue Orientale","id":1008715,"patch":2.2,"zoneid":42,"coords":[20.1,24.68],"areaid":376,"quests":[66851,66852]},"partials":[{"type":"quest","id":"66851","obj":{"i":66851,"n":"De nouvelles rencontres","g":39,"l":44,"s":5,"f":1}},{"type":"quest","id":"66852","obj":{"i":66852,"n":"Le démon à la toison blanche","g":39,"l":42,"s":6,"f":1}}]}

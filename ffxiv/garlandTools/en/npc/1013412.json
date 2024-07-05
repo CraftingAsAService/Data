@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Wandering Gnath","id":1013412,"patch":3.0,"zoneid":2000,"coords":[10.63,32.26],"areaid":2006,"quests":[67342],"alts":[1013413]},"partials":[{"type":"quest","id":"67342","obj":{"i":67342,"n":"Advanced Vathematics","g":61,"l":2000,"s":5309}},{"type":"npc","id":"1013413","obj":{"i":1013413,"n":"Wandering Gnath","l":2000,"q":1}}]}

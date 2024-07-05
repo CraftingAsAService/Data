@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Drachenmutter","id":1016875,"patch":3.2,"zoneid":2000,"coords":[17.09,23.04],"areaid":2025,"quests":[67814]},"partials":[{"type":"quest","id":"67814","obj":{"i":67814,"n":"Ausgebüxt","g":36,"l":2000,"s":24,"r":1}}]}

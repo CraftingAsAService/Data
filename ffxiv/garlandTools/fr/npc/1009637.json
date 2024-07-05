@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Éclaireur Des Planeurs","id":1009637,"patch":2.35,"zoneid":57,"coords":[18.38,19.65],"areaid":145,"quests":[67037],"alts":[1009649]},"partials":[{"type":"quest","id":"67037","obj":{"i":67037,"n":"Ayatlan, terre sacrée","g":32,"l":57,"s":44,"r":1}},{"type":"npc","id":"1009649","obj":{"i":1009649,"n":"Éclaireur Des Planeurs","l":63,"q":1}}]}

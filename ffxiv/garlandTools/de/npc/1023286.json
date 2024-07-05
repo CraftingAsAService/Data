@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Inban","id":1023286,"patch":4.05,"zoneid":2409,"coords":[25.98,24.23],"areaid":2783,"quests":[68242],"alts":[1023289]},"partials":[{"type":"quest","id":"68242","obj":{"i":68242,"n":"Die Jagd nach alten Schnecken","g":71,"l":2409,"s":3100}},{"type":"npc","id":"1023289","obj":{"i":1023289,"n":"Inban","l":2409,"q":1}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Captured Chocobo","id":1013363,"patch":3.0,"zoneid":2000,"coords":[39.55,21.83],"areaid":2003,"quests":[67309],"alts":[1013362]},"partials":[{"type":"quest","id":"67309","obj":{"i":67309,"n":"Why Does the Caged Bird Sing","g":61,"l":2000,"s":5203}},{"type":"npc","id":"1013362","obj":{"i":1013362,"n":"Captured Chocobo","l":2000,"q":1}}]}

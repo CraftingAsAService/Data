@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Abandoned Golem","id":1012413,"patch":3.0,"zoneid":2082,"coords":[4.74,4.75],"areaid":2098,"quests":[67192],"alts":[1014413]},"partials":[{"type":"quest","id":"67192","obj":{"i":67192,"n":"Golems Begone","g":3,"l":2082,"s":81}},{"type":"npc","id":"1014413","obj":{"i":1014413,"n":"Abandoned Golem","l":2082,"q":1}}]}

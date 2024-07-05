@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Tocktix","id":1003628,"patch":1.0,"zoneid":29,"coords":[7.55,14.64],"areaid":714,"quests":[66650,66651]},"partials":[{"type":"quest","id":"66650","obj":{"i":66650,"n":"Goblin-Ruhm","g":93,"l":27,"s":300,"f":1}},{"type":"quest","id":"66651","obj":{"i":66651,"n":"Wüstenfischer","g":93,"l":27,"s":350,"f":1}}]}

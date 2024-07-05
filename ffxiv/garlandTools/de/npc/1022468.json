@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Namazuo-Meister","id":1022468,"patch":4.0,"zoneid":2410,"coords":[16.97,33.11],"areaid":2800,"quests":[68282],"alts":[1022467]},"partials":[{"type":"quest","id":"68282","obj":{"i":68282,"n":"Feinfühlige Barteln","g":72,"l":2410,"s":4220}},{"type":"npc","id":"1022467","obj":{"i":1022467,"n":"Namazuo-Meister","l":2410,"q":1}}]}

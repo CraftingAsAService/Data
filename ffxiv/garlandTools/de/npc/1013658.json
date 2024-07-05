@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Verletzt[a] Goblin","id":1013658,"patch":3.0,"zoneid":2001,"coords":[10.28,29.11],"areaid":2052,"quests":[67501],"alts":[1013657]},"partials":[{"type":"quest","id":"67501","obj":{"i":67501,"n":"Gewalt ist eine Lösung","g":62,"l":2001,"s":5810}},{"type":"npc","id":"1013657","obj":{"i":1013657,"n":"Leidend[a] Goblin","l":2001,"q":1}}]}

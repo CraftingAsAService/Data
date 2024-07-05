@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Impetuous Moogle","id":1013539,"patch":3.0,"zoneid":2002,"coords":[19.12,9.47],"areaid":2048,"quests":[67394],"alts":[1013544]},"partials":[{"type":"quest","id":"67394","obj":{"i":67394,"n":"A Frightening Field Trip","g":63,"l":2002,"s":5526}},{"type":"npc","id":"1013544","obj":{"i":1013544,"n":"Impetuous Moogle","l":2002,"q":1}}]}

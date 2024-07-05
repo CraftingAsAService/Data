@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Goblin Herbalist","id":1016863,"patch":3.2,"zoneid":2000,"coords":[23.94,19.21],"areaid":2021,"quests":[67810]},"partials":[{"type":"quest","id":"67810","obj":{"i":67810,"n":"Smells Like Trouble","g":36,"l":2000,"s":20,"r":1}}]}

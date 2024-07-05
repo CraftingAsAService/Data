@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Émissaire Kojin","id":1025965,"patch":4.3,"zoneid":2404,"coords":[10.21,9.96],"areaid":2906,"quests":[68675]},"partials":[{"type":"quest","id":"68675","obj":{"i":68675,"n":"Kurenai et ses commandes spéciales","g":70,"l":2404,"s":1000,"f":1}}]}

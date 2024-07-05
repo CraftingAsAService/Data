@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Söldnerhauptmann[p] Der Mamool Ja","id":1013139,"patch":3.0,"zoneid":34,"coords":[35.53,24.17],"areaid":177,"quests":[67210]},"partials":[{"type":"quest","id":"67210","obj":{"i":67210,"n":"Seesoldaten, das sind wir!","g":103,"l":34,"s":560,"f":1}}]}

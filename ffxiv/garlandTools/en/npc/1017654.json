@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Slipslix","id":1017654,"patch":3.55,"zoneid":2082,"coords":[7.72,4.22],"areaid":2092,"quests":[67016],"talk":[{"lines":["Pshhh... Shkohhh...<br>Slipslix needs creaturebits for research. New knowings await!"]}]},"partials":[{"type":"quest","id":"67016","obj":{"i":67016,"n":"Unidentified Flying Object","g":13,"l":2082,"s":7,"r":1,"f":1}}]}

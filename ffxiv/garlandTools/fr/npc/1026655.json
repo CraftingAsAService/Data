@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Fantôme Joyeux","id":1026655,"patch":4.4,"areaid":1824,"quests":[68707],"talk":[{"questid":68707,"lines":["This is the greatest day of my life! It's also the only day so far!","Hey, you're back! Are you tempting fate? Can I come? "]}]},"partials":[{"type":"quest","id":"68707","obj":{"i":68707,"n":"Un numéro très secret","g":122,"l":1834,"s":164}}]}

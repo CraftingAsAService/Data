@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Overconfident Kojin","id":1024223,"patch":4.1,"zoneid":2409,"coords":[27.75,30.89],"areaid":2750,"quests":[68509],"alts":[1024226]},"partials":[{"type":"quest","id":"68509","obj":{"i":68509,"n":"Heaven-sent","g":21,"l":2409,"s":1,"f":1}},{"type":"npc","id":"1024226","obj":{"i":1024226,"n":"Overconfident Kojin","l":2409,"q":1}}]}

@@ -1,0 +1,112 @@
+node_id	times	uptime	coords	area	type
+211	9	180	28, 13	Providence Point	Unspoiled
+212	13	180	26, 22	Dragonhead	Unspoiled
+213	17	180	7, 11	Whitebrim	Unspoiled
+214	9	180	30, 27	Bloodshore	Unspoiled
+215	1, 5, 9	180	32, 11	North Silvertear	Unspoiled
+216	1	180	22, 26	Little Solace	Unspoiled
+217	5	180	17, 19	The Bramble Patch	Unspoiled
+218	21	180	13, 23	The Honey Yard	Unspoiled
+219	5	180	28, 32	Bloodshore	Unspoiled
+220	13	180	16, 27	Raincatcher Gully	Unspoiled
+221	13	180	12, 15	Drybone	Unspoiled
+222	1	180	27, 19	Haldrath's March	Unspoiled
+223	9	180	28, 22	Burgundy Falls	Unspoiled
+224	17	180	18, 32	Raincatcher Gully	Unspoiled
+225	21	180	23, 26	Dragonhead	Unspoiled
+226	5	180	25, 23	Yugr'am River	Unspoiled
+227	13, 17, 21	180	27, 10	North Silvertear	Unspoiled
+230	3	180	16, 28	Alder Springs	Unspoiled
+231	9	180	19, 16	Summerford	Unspoiled
+232	7	180	29, 25	Bronze Lake	Unspoiled
+233	2	180	15, 19	Sorrel Haven	Unspoiled
+234	8	180	34, 28	Quarterstone	Unspoiled
+235	6	180	32, 11	Cedarwood	Unspoiled
+236	3	180	17, 20	Raubahn's Push	Unspoiled
+237	4	180	25, 16	Lost Hope	Unspoiled
+238	18	180	23, 21	Moraby Bay	Unspoiled
+239	19	180	24, 27	Zephyr Drift	Unspoiled
+240	6	180	18, 31	Rootslake	Unspoiled
+241	5	180	19, 28	Hammerlea	Unspoiled
+242	2	180	18, 23	Upper Paths	Unspoiled
+245	6	180	30, 21	Naked Rock	Unspoiled
+246	2	180	26, 18	Wellwick Wood	Unspoiled
+247	4	180	17, 9	Broken Water	Unspoiled
+248	4	180	23, 26	Zephyr Drift	Unspoiled
+249	10	180	24, 31	Bentbranch	Unspoiled
+250	1	180	17, 26	Raincatcher Gully	Unspoiled
+251	17	180	23, 30	Nine Ivies	Unspoiled
+252	17	180	23, 22	Bluefog	Unspoiled
+289	2, 14	120	10, 10	Dragonspit	Legendary
+290	8, 20	120	17, 29, 1	Quickspill Delta	Legendary
+291	6, 18	120	5, 17	Hyperstellar Downconverter	Legendary
+292	0, 12	120	8, 29	The Answering Quarter	Legendary
+293	4, 16	120	8, 31	Antithesis	Legendary
+299	10, 22	120	12, 37, 2	Greensward	Legendary
+301	6, 18	120	34, 30, 1	Chocobo Forest	Legendary
+305	20	240	21, 28	Red Rim	Ephemeral
+307	4	240	17, 27	Avalonia Fallen	Ephemeral
+309	8	240	26, 24	The Makers' Quarter	Ephemeral
+311	12	240	29, 19	Landlord Colony	Ephemeral
+313	16	240	34, 30	Voor Sian Siran	Ephemeral
+315	4, 16	120	29, 24	Black Iron Bridge	Unspoiled
+316	8, 20	120	27, 17	Loth ast Vath	Unspoiled
+317	6, 18	120	35, 21	The House of Letters	Unspoiled
+318	10, 22	120	7, 7	Coldwind	Unspoiled
+319	2, 14	120	35, 30	The Daggers	Unspoiled
+320	0, 12	120	23, 5	Beta Quadrant	Unspoiled
+321	0, 12	120	37, 16	Hemlock	Legendary
+323	2, 14	120	11, 38	Mother of the Sheave	Legendary
+324	4, 16	120	35, 39	The Nidifice	Legendary
+325	6, 18	120	11, 16	The Answering Quarter	Legendary
+326	10, 22	120	35, 16	Habisphere Control	Legendary
+327	20	240	26, 35	Voor Sian Siran	Ephemeral
+329	0	240	10, 14	Twinpools	Ephemeral
+331	8	240	10, 32	Avalonia Fallen	Ephemeral
+333	16	240	20, 30	Four Arms	Ephemeral
+335	20	240	23, 12	The Blue Window	Ephemeral
+337	4	240	13, 19	The Answering Quarter	Ephemeral
+339	10, 22	120	31, 20	Black Iron Bridge	Unspoiled
+340	2, 14	120	27, 14	Chocobo Forest	Unspoiled
+341	0, 12	120	25, 6	Easton Eyes	Unspoiled
+342	6, 18	120	34, 19	Vundu Ok' Bendu	Unspoiled
+343	4, 16	120	19, 36	The Ruling Quarter	Unspoiled
+344	8, 20	120	8, 9	Dragonspit	Unspoiled
+345	6, 18	120	23, 21	The Watcher	Legendary
+347	4, 16	120	16, 36	The Lost Landlord	Legendary
+348	0, 12	120	24, 6	The Gauntlet	Legendary
+349	10, 22	120	39, 26	The Daggers	Legendary
+350	2, 14	120	22, 8	Alpha Quadrant	Legendary
+392	16	240	32, 32, 1	Eil Tohm	Ephemeral
+395	8, 20	120	11, 10	Weston Waters	Legendary
+397	8, 20	120	38, 14	Hengr's Crucible	Legendary
+492	20	240	37, 19	Unseen Spirits Laughing	Ephemeral
+494	0	240	13, 16	The High Bank	Ephemeral
+496	12	240	29, 15	Onsal Hakair	Ephemeral
+497	2, 14	120	24, 7	The Striped Hills	Unspoiled
+498	0, 12	120	15, 5	Ten-thousand-year Pine	Unspoiled
+499	8, 20	120	26, 13	Rustrock	Unspoiled
+500	6, 18	120	30, 9	Valley of the Fallen Rainbow	Unspoiled
+501	4, 16	120	5, 27	The Towering Still	Unspoiled
+502	0, 12	120	21, 29	Loch Seld	Unspoiled
+503	10, 22	120	16, 34	Wightrock	Legendary
+504	4, 16	120	20, 10	Monzen	Legendary
+515	4	240	28, 10	Abalathia's Skull	Ephemeral
+518	16	240	22, 13	Doma	Ephemeral
+520	8	240	16, 28	Nhaama's Retreat	Ephemeral
+521	6, 18	120	10, 20	East End	Unspoiled
+522	10, 22	120	30, 26	Kusakari	Unspoiled
+523	2, 14	120	27, 16	Onsal Hakair	Unspoiled
+524	6, 18	120	23, 16	Rustrock	Unspoiled
+525	8, 20	120	28, 8	Valley of the Fallen Rainbow	Unspoiled
+526	4, 16	120	7, 10	The Royal Hunting Grounds	Unspoiled
+527	6, 18	120	11, 12	Stacks	Legendary
+528	0, 12	120	20, 10	Ceol Aen	Legendary
+535	6, 18	120	11, 22	The Isle of Zekki	Legendary
+536	8, 20	120	24, 37	Nhaama's Retreat	Legendary
+537	4, 16	120	15, 21	Pike Falls	Legendary
+538	2, 14	120	24, 36	Mount Yorn	Legendary
+555	0, 12	120	27, 30	Virdjala	Legendary
+556	10, 22	120	24, 12	The Divine Audience	Legendary
+557	4, 16	120	33, 10	Sleeping Stones	Legendary
+558	2, 14	120	28, 34	Castrum Fluminis	Legendary

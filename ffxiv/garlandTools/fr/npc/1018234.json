@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mogzin","id":1018234,"patch":3.5,"zoneid":2002,"coords":[9.85,25.44],"areaid":2015,"quests":[67918],"alts":[1018264]},"partials":[{"type":"quest","id":"67918","obj":{"i":67918,"n":"Vathe à tout faire","g":50,"l":2082,"s":1}},{"type":"npc","id":"1018264","obj":{"i":1018264,"n":"Mogzin","l":2100,"q":1}}]}

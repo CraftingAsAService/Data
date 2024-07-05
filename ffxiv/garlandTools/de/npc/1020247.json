@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Blaupanzer-Kapitän","id":1020247,"patch":4.05,"zoneid":2410,"coords":[14.17,14.24],"areaid":2809,"quests":[68060]},"partials":[{"type":"quest","id":"68060","obj":{"i":68060,"n":"Schlacht um Burg Doma","g":6,"l":2410,"s":840}}]}

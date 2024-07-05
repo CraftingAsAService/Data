@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mog Coutelier","id":1017370,"patch":3.3,"zoneid":2002,"coords":[31.71,36.13],"areaid":2012,"quests":[67832],"alts":[1013501]},"partials":[{"type":"quest","id":"67832","obj":{"i":67832,"n":"À coups de serpe","g":38,"l":2002,"s":15,"r":1}},{"type":"npc","id":"1013501","obj":{"i":1013501,"n":"Mogdoc","l":2002,"q":4}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Silbexio","id":1009194,"patch":2.35,"zoneid":44,"coords":[14.44,17.17],"areaid":301,"quests":[67009],"alts":[1009195]},"partials":[{"type":"quest","id":"67009","obj":{"i":67009,"n":"Friends Forever","g":49,"l":45,"s":9}},{"type":"npc","id":"1009195","obj":{"i":1009195,"n":"Silbexio","l":44,"q":1}}]}

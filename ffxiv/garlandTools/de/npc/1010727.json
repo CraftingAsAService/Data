@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Schäfchen","id":1010727,"patch":2.45,"zoneid":28,"coords":[11.57,13.9],"areaid":737,"quests":[65823],"alts":[1010725]},"partials":[{"type":"quest","id":"65823","obj":{"i":65823,"n":"Des Schäfchens Generäle","g":114,"l":27,"s":71}},{"type":"npc","id":"1010725","obj":{"i":1010725,"n":"Schäfchen","l":28,"q":1}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Gnathe Exilé","id":1013409,"patch":3.0,"zoneid":2000,"coords":[31.84,38.68],"areaid":2023,"quests":[67340],"alts":[1013410]},"partials":[{"type":"quest","id":"67340","obj":{"i":67340,"n":"Un Égaré de plus","g":61,"l":2000,"s":5307}},{"type":"npc","id":"1013410","obj":{"i":1013410,"n":"Gnathe Exilé","l":2000,"q":1}}]}

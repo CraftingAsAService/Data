@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Racker","id":1002005,"patch":1.0,"zoneid":42,"coords":[26.12,24.24],"areaid":263,"quests":[65767],"talk":[{"lines":["Kweeeh!"]}]},"partials":[{"type":"quest","id":"65767","obj":{"i":65767,"n":"Armer Racker","g":56,"l":42,"s":50}}]}

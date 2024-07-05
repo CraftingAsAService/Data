@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Imposant[a] Wyvern","id":1016812,"patch":3.3,"zoneid":2002,"coords":[7.7,27.94],"areaid":2015,"quests":[67780],"talk":[{"lines":["Your flying machines are clever, but a wyvern's mastery of the winds will never be surpassed by mortal inventions."]}]},"partials":[{"type":"quest","id":"67780","obj":{"i":67780,"n":"Drachendiplomatie","g":4,"l":2000,"s":22}}]}

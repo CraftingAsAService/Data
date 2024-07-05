@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Sphère De Nettoyage","id":1012146,"patch":3.0,"zoneid":2101,"coords":[9.69,12.02],"areaid":2131,"quests":[67516],"talk":[{"lines":["Cleaning in progress. &lt;beep&gt; Warning. Floor may be slippery when wet."]}]},"partials":[{"type":"quest","id":"67516","obj":{"i":67516,"n":"La peur du rangement","g":65,"l":2101,"s":5902}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Garde-frontière Ananta","id":1025108,"patch":4.2,"zoneid":2406,"coords":[26.6,29.85],"areaid":2603,"quests":[68591],"alts":[1025109]},"partials":[{"type":"quest","id":"68591","obj":{"i":68591,"n":"Ne me pique pas","g":20,"l":2406,"s":19,"r":1}},{"type":"npc","id":"1025109","obj":{"i":1025109,"n":"Garde-frontière Ananta","l":2406,"q":1}}]}

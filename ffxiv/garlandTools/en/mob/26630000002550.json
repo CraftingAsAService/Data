@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Leviathan","id":26630000002550,"quest":1,"zoneid":1334,"lvl":"50","drops":[7159],"instance":20017},"partials":[{"type":"item","id":"7159","obj":{"i":7159,"n":"Leviathan's Barb","l":70,"c":3346,"t":53}},{"type":"instance","id":"20017","obj":{"i":20017,"n":"The Whorleater (Hard)","c":61804,"t":"Trials","min_lvl":50,"max_lvl":50,"min_ilvl":60}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Schlafend[a] Lamm","id":1021900,"patch":4.05,"zoneid":2411,"coords":[19.83,18.57],"areaid":2823,"quests":[68307]},"partials":[{"type":"quest","id":"68307","obj":{"i":68307,"n":"Schlaf schön, kleiner Ausreißer","g":73,"l":2411,"s":5200,"f":1}}]}

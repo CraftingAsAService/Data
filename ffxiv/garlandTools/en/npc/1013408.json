@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Kohm Khur","id":1013408,"patch":3.0,"zoneid":2000,"coords":[14.37,27.28],"areaid":2006,"quests":[67338,67348]},"partials":[{"type":"quest","id":"67338","obj":{"i":67338,"n":"A Lesson in Humility","g":61,"l":2000,"s":5315,"f":1}},{"type":"quest","id":"67348","obj":{"i":67348,"n":"Back in the Game","g":61,"l":2000,"s":5316}}]}

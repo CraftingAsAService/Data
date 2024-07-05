@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Schäfchen","id":1010725,"patch":2.45,"zoneid":28,"coords":[11.57,13.91],"areaid":737,"quests":[65788],"alts":[1010727]},"partials":[{"type":"quest","id":"65788","obj":{"i":65788,"n":"Von Göttern und Schafen","g":114,"l":27,"s":67}},{"type":"npc","id":"1010727","obj":{"i":1010727,"n":"Schäfchen","l":28,"q":1}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Guetteur","id":1016892,"patch":3.2,"zoneid":2000,"coords":[23.72,19.17],"areaid":2021,"quests":[67791],"alts":[1016803]},"partials":[{"type":"quest","id":"67791","obj":{"i":67791,"n":"Le Vathe sans nom","g":35,"l":2000,"s":1,"f":1}},{"type":"npc","id":"1016803","obj":{"i":1016803,"n":"Guetteur","l":2000,"q":20,"k":4}}]}

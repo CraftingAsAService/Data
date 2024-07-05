@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mog Jardinier","id":1013429,"patch":3.0,"zoneid":2002,"coords":[12.23,32.3],"areaid":2238,"quests":[67365]},"partials":[{"type":"quest","id":"67365","obj":{"i":67365,"n":"Jardiner n'est pas jouer","g":63,"l":2002,"s":5412}}]}

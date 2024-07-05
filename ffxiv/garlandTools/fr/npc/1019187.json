@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Toro","id":1019187,"patch":4.0,"zoneid":2409,"coords":[28.2,15.35],"areaid":2769,"quests":[68230],"talk":[{"lines":["I am praying to the kami for luck since I am about to leave on a treasure hunt. Would you like to join me?"]}]},"partials":[{"type":"quest","id":"68230","obj":{"i":68230,"n":"La pierre de force","g":71,"l":2409,"s":2220}}]}

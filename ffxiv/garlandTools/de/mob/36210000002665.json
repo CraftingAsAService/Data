@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Gilgamesch","id":36210000002665,"quest":1,"zoneid":128,"lvl":"50","drops":[10076],"instance":20030},"partials":[{"type":"item","id":"10076","obj":{"i":10076,"n":"Aufzieh-Enkidu","l":1,"c":5726,"t":81}},{"type":"instance","id":"20030","obj":{"i":20030,"n":"Revanche in den Ruinen","c":61804,"t":"Prüfungen","min_lvl":50,"max_lvl":50,"min_ilvl":90}}]}

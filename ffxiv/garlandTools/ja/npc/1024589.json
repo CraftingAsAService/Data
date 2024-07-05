@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"イブキマル","id":1024589,"patch":4.45,"zoneid":28,"coords":[11.53,13.89],"areaid":737,"talk":[{"questid":68550,"lines":["&lt;grunt&gt;","Oink, oink!"]}]},"partials":[{"type":"quest","id":"68550","obj":{"i":68550,"n":"亥と認めぬ者と降神祭","g":114,"l":27,"s":149}}]}

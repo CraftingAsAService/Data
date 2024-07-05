@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Unmaneuvering Moogle","id":1013514,"patch":3.0,"zoneid":2002,"coords":[10.3,26.69],"areaid":2046,"quests":[67384,67385]},"partials":[{"type":"quest","id":"67384","obj":{"i":67384,"n":"If Living Is without Nuts","g":63,"l":2002,"s":5512}},{"type":"quest","id":"67385","obj":{"i":67385,"n":"The Nest Episode","g":63,"l":2002,"s":5513}}]}

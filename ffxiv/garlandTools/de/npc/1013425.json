@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Munkel-Mogry","id":1013425,"patch":3.0,"zoneid":2002,"coords":[13.53,30.93],"areaid":2238,"quests":[67364],"alts":[1013428]},"partials":[{"type":"quest","id":"67364","obj":{"i":67364,"n":"Eckstein, Eckstein","g":63,"l":2002,"s":5411,"f":1}},{"type":"npc","id":"1013428","obj":{"i":1013428,"n":"Munkel-Mogry","l":2002,"q":2}}]}

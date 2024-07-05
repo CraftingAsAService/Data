@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Drydox","id":1018244,"patch":3.5,"zoneid":2000,"coords":[23.34,33.46],"areaid":2005,"quests":[67919],"alts":[1012132]},"partials":[{"type":"quest","id":"67919","obj":{"i":67919,"n":"Who Was That Masked Man","g":50,"l":2002,"s":2}},{"type":"npc","id":"1012132","obj":{"i":1012132,"n":"Drydox","l":2082,"q":8,"k":1}}]}

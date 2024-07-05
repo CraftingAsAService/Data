@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Sylphe Paresseux","id":1005571,"patch":2.1,"zoneid":55,"coords":[26.46,20.41],"areaid":77,"quests":[66790]},"partials":[{"type":"quest","id":"66790","obj":{"i":66790,"n":"Mission de sauvetage","g":25,"l":55,"s":0,"f":1}}]}

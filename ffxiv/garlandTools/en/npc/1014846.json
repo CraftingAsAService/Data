@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Vanu Scout","id":1014846,"patch":3.0,"zoneid":2100,"coords":[19.97,32.84],"areaid":2152,"quests":[67277],"alts":[1014128]},"partials":[{"type":"quest","id":"67277","obj":{"i":67277,"n":"Dragons in the Mist","g":60,"l":2100,"s":5005}},{"type":"npc","id":"1014128","obj":{"i":1014128,"n":"Vanu Scout","l":2100,"q":1}}]}

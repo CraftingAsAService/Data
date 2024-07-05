@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Muzzing Moogle","id":1017384,"patch":3.3,"zoneid":2002,"coords":[9.54,26.93],"areaid":2046,"quests":[67836],"alts":[1017387]},"partials":[{"type":"quest","id":"67836","obj":{"i":67836,"n":"Stumbling Blocks","g":38,"l":2002,"s":19,"r":1}},{"type":"npc","id":"1017387","obj":{"i":1017387,"n":"Muzzing Moogle","l":2002,"q":1}}]}

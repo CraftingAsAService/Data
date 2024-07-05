@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Fuchtel-Mogry","id":1013543,"patch":3.0,"zoneid":2002,"coords":[18.25,12.33],"areaid":2016,"quests":[67394],"alts":[1013538]},"partials":[{"type":"quest","id":"67394","obj":{"i":67394,"n":"Bis zum letzten Mogry","g":63,"l":2002,"s":5526}},{"type":"npc","id":"1013538","obj":{"i":1013538,"n":"Fuchtel-Mogry","l":2002,"q":1}}]}

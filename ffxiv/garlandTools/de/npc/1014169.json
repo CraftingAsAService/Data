@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Ohl Ahs","id":1014169,"patch":3.0,"zoneid":2000,"coords":[14.8,20.76],"areaid":2025,"quests":[67354],"alts":[1014163]},"partials":[{"type":"quest","id":"67354","obj":{"i":67354,"n":"Umdenken","g":61,"l":2000,"s":5326}},{"type":"npc","id":"1014163","obj":{"i":1014163,"n":"Ohl Ahs","l":2000,"q":1}}]}

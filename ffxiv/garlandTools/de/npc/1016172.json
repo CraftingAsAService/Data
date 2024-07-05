@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Linu Vanu","id":1016172,"patch":3.1,"zoneid":2100,"coords":[16.28,17.96],"areaid":2126,"quests":[67703],"alts":[1016088]},"partials":[{"type":"quest","id":"67703","obj":{"i":67703,"n":"Tanz der Geschwister","g":33,"l":2100,"s":4,"f":1}},{"type":"npc","id":"1016088","obj":{"i":1016088,"n":"Linu Vanu","l":2100,"q":14,"k":4}}]}

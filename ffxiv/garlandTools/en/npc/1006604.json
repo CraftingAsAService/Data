@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Sabotendred","id":1006604,"patch":1.0,"zoneid":350,"coords":[15.92,9.89],"areaid":235,"quests":[66558],"alts":[1007633]},"partials":[{"type":"quest","id":"66558","obj":{"i":66558,"n":"Zombies Are People Too","g":56,"l":45,"s":470}},{"type":"npc","id":"1007633","obj":{"i":1007633,"n":"Sabotendred","l":45,"q":1}}]}

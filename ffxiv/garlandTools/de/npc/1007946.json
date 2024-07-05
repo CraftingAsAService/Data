@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Gi Gu","id":1007946,"patch":2.2,"zoneid":350,"coords":[25.92,9.64],"areaid":176,"quests":[66860],"alts":[1005927]},"partials":[{"type":"quest","id":"66860","obj":{"i":66860,"n":"Sternstunde des 789. Ordens","g":27,"l":350,"s":0,"f":1}},{"type":"npc","id":"1005927","obj":{"i":1005927,"n":"Gi Gu","l":350,"q":9,"k":3}}]}

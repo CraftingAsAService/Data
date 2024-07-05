@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Nonmind Drone","id":1013410,"patch":3.0,"zoneid":2000,"coords":[24.07,19.74],"areaid":2021,"quests":[67341],"alts":[1013409]},"partials":[{"type":"quest","id":"67341","obj":{"i":67341,"n":"It's the Thought That Counts","g":61,"l":2000,"s":5308}},{"type":"npc","id":"1013409","obj":{"i":1013409,"n":"Nonmind Drone","l":2000,"q":1}}]}

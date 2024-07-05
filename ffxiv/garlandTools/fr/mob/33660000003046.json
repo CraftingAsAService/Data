@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Typhon","id":33660000003046,"quest":1,"zoneid":49,"lvl":"50","drops":[9344],"instance":20026},"partials":[{"type":"item","id":"9344","obj":{"i":9344,"n":"Orthros articulé","l":1,"c":5544,"t":81}},{"type":"instance","id":"20026","obj":{"i":20026,"n":"Le Col du dragon","c":61804,"t":"Défis","min_lvl":50,"max_lvl":50,"min_ilvl":80}}]}

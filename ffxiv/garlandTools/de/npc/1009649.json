@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Ehcatl-Schleicher","id":1009649,"patch":2.35,"zoneid":63,"coords":[34.07,21.17],"areaid":393,"quests":[67104],"alts":[1009637]},"partials":[{"type":"quest","id":"67104","obj":{"i":67104,"n":"Die Parolen der Urväter","g":32,"l":57,"s":67,"r":1}},{"type":"npc","id":"1009637","obj":{"i":1009637,"n":"Ehcatl-Schleicher","l":57,"q":1}}]}

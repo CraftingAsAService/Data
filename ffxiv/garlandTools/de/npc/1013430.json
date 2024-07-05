@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Zöger-Mogry","id":1013430,"patch":3.0,"zoneid":2002,"coords":[29.8,20.75],"areaid":2014,"quests":[67370]},"partials":[{"type":"quest","id":"67370","obj":{"i":67370,"n":"Wachposten einnehmen!","g":63,"l":2002,"s":5410}}]}

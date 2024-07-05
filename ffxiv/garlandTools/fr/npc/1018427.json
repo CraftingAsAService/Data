@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mog Duveteux","id":1018427,"patch":3.5,"zoneid":2082,"coords":[4.66,8.45],"areaid":2097,"quests":[67938],"alts":[1018428]},"partials":[{"type":"quest","id":"67938","obj":{"i":67938,"n":"Pour le repos des dragons","g":64,"l":2082,"s":6200,"f":1}},{"type":"npc","id":"1018428","obj":{"i":1018428,"n":"Mog Duveteux","l":2002,"q":1}}]}

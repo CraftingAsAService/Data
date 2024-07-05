@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Zurückgelassen[a] Golem","id":1014413,"patch":3.0,"zoneid":2082,"coords":[5.28,6.19],"areaid":2096,"quests":[67192],"alts":[1012413]},"partials":[{"type":"quest","id":"67192","obj":{"i":67192,"n":"Bauerschwernis","g":3,"l":2082,"s":81}},{"type":"npc","id":"1012413","obj":{"i":1012413,"n":"Sharlayaner Golem[p]","l":2082,"q":1}}]}

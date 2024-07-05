@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Gefallen[a] Sylphe","id":1006344,"patch":2.0,"zoneid":42,"coords":[12.0,14.04],"areaid":472,"quests":[66412],"alts":[1006352]},"partials":[{"type":"quest","id":"66412","obj":{"i":66412,"n":"Leichentransport","g":1,"l":44,"s":186}},{"type":"npc","id":"1006352","obj":{"i":1006352,"n":"Gefallen[a] Sylphe"}}]}

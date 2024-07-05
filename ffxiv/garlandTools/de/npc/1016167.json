@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Ginu Vanu","id":1016167,"patch":3.1,"zoneid":2100,"coords":[33.76,28.31],"areaid":2103,"quests":[67702],"alts":[1016092]},"partials":[{"type":"quest","id":"67702","obj":{"i":67702,"n":"Freund<SoftHyphen/>schaftsknochen","g":33,"l":2100,"s":3,"f":1}},{"type":"npc","id":"1016092","obj":{"i":1016092,"n":"Ginu Vanu","l":2100,"q":6,"k":3}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Éclaireur Vanu Vanu","id":1014128,"patch":3.0,"zoneid":2100,"coords":[19.97,32.84],"areaid":2152,"quests":[67285],"alts":[1014846]},"partials":[{"type":"quest","id":"67285","obj":{"i":67285,"n":"Une enquête pour motiver les troupes","g":60,"l":2100,"s":5006}},{"type":"npc","id":"1014846","obj":{"i":1014846,"n":"Éclaireur Vanu Vanu","l":2100,"q":1}}]}

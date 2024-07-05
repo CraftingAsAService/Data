@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Claxio","id":1002937,"patch":1.0,"zoneid":55,"coords":[20.05,25.26],"areaid":113,"quests":[66260],"alts":[1002998]},"partials":[{"type":"quest","id":"66260","obj":{"i":66260,"n":"La fugue de Claxio","g":1,"l":55,"s":121}},{"type":"npc","id":"1002998","obj":{"i":1002998,"n":"Claxio","l":55,"q":1}}]}

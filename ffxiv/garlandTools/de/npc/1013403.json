@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Wild[a] Riesen-Chocobo","id":1013403,"patch":3.0,"zoneid":2000,"coords":[31.91,19.12],"areaid":2020,"quests":[67334],"alts":[1013404]},"partials":[{"type":"quest","id":"67334","obj":{"i":67334,"n":"Marcechamps Plan","g":61,"l":2000,"s":5302}},{"type":"npc","id":"1013404","obj":{"i":1013404,"n":"Wild[a] Riesen-Chocobo","l":2000,"q":1}}]}

@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Moggie","id":1012076,"patch":3.0,"zoneid":2002,"coords":[27.67,35.12],"areaid":2042,"quests":[67599,68453]},"partials":[{"type":"quest","id":"67599","obj":{"i":67599,"n":"Des Wahnsinns fette Bommel","g":104,"l":62,"s":580,"f":1}},{"type":"quest","id":"68453","obj":{"i":68453,"n":"Meister und Schüler","g":104,"l":2000,"s":650,"f":1}}]}

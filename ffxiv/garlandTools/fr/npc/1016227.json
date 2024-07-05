@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Pêcheur Vundu","id":1016227,"patch":3.1,"zoneid":2100,"coords":[32.05,12.01],"areaid":2106,"quests":[67720],"alts":[1016226]},"partials":[{"type":"quest","id":"67720","obj":{"i":67720,"n":"Surpêche dans les nuages","g":34,"l":2100,"s":24,"r":1}},{"type":"npc","id":"1016226","obj":{"i":1016226,"n":"Pêcheur Vundu","l":2100,"q":1}}]}

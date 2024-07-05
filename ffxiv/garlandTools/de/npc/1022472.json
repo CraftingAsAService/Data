@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Best[a] Namazuo-Schüler","id":1022472,"patch":4.05,"zoneid":2410,"coords":[22.71,33.57],"areaid":2796,"quests":[68282],"alts":[1022469]},"partials":[{"type":"quest","id":"68282","obj":{"i":68282,"n":"Feinfühlige Barteln","g":72,"l":2410,"s":4220}},{"type":"npc","id":"1022469","obj":{"i":1022469,"n":"Best[a] Namazuo-Schüler","l":2410,"q":1}}]}

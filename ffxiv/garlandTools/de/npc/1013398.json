@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Schlepper","id":1013398,"patch":3.0,"zoneid":2000,"coords":[24.09,19.35],"areaid":2021,"quests":[67330]},"partials":[{"type":"quest","id":"67330","obj":{"i":67330,"n":"Liebesalgen","g":61,"l":2000,"s":5306}}]}

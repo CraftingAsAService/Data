@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Astute Vath","id":1013411,"patch":3.0,"zoneid":2000,"coords":[23.98,20.17],"areaid":2021,"quests":[67342]},"partials":[{"type":"quest","id":"67342","obj":{"i":67342,"n":"Advanced Vathematics","g":61,"l":2000,"s":5309}}]}

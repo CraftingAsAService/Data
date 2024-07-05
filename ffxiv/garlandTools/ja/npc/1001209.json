@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"スウィートニクス","id":1001209,"patch":1.0,"zoneid":29,"coords":[9.17,11.57],"areaid":739,"quests":[65649],"talk":[{"lines":["Pshhh... Shkohhh...<br>Sweetnix write many letters, but never find right words!"]}]},"partials":[{"type":"quest","id":"65649","obj":{"i":65649,"n":"筆まめスウィートニクス","g":54,"l":27,"s":10}}]}

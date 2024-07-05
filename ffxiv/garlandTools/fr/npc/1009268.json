@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Bugaal Ja","id":1009268,"patch":2.3,"zoneid":350,"coords":[15.1,10.06],"areaid":235,"quests":[67068],"alts":[1009269]},"partials":[{"type":"quest","id":"67068","obj":{"i":67068,"n":"Une danse lascive","g":48,"l":27,"s":6}},{"type":"npc","id":"1009269","obj":{"i":1009269,"n":"Bugaal Ja","l":32,"q":1}}]}

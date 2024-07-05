@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Kojin Maigrichon","id":1023358,"patch":4.0,"zoneid":2409,"coords":[33.68,19.64],"areaid":2767,"quests":[68229],"alts":[1023357]},"partials":[{"type":"quest","id":"68229","obj":{"i":68229,"n":"Sauter sans avoir l'air sot","g":71,"l":2409,"s":2210,"f":1}},{"type":"npc","id":"1023357","obj":{"i":1023357,"n":"Kojin Maigrichon","l":2409,"q":1}}]}

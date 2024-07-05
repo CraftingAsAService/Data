@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mog Apprenti Tailleur","id":1017387,"patch":3.3,"zoneid":2002,"coords":[21.39,26.32],"areaid":2045,"quests":[67836],"alts":[1017384]},"partials":[{"type":"quest","id":"67836","obj":{"i":67836,"n":"Quand la taille compte","g":38,"l":2002,"s":19,"r":1}},{"type":"npc","id":"1017384","obj":{"i":1017384,"n":"Mog Apprenti Tailleur","l":2002,"q":1}}]}

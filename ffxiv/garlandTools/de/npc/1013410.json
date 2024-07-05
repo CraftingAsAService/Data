@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Vath-Drohne","id":1013410,"patch":3.0,"zoneid":2000,"coords":[24.07,19.74],"areaid":2021,"quests":[67341],"alts":[1013409]},"partials":[{"type":"quest","id":"67341","obj":{"i":67341,"n":"Ein Geschenk für die Retter","g":61,"l":2000,"s":5308}},{"type":"npc","id":"1013409","obj":{"i":1013409,"n":"Vath-Drohne","l":2000,"q":1}}]}

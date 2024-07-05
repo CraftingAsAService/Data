@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Rescued Zundu Youth","id":1013575,"patch":3.0,"zoneid":2100,"coords":[12.4,11.4],"areaid":2156,"quests":[67454,67455]},"partials":[{"type":"quest","id":"67454","obj":{"i":67454,"n":"On Wings of Vanu","g":60,"l":2100,"s":5709}},{"type":"quest","id":"67455","obj":{"i":67455,"n":"Not Free as a Bird","g":60,"l":2100,"s":5708}}]}

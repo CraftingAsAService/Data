@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mogek The Marvelous","id":1017336,"patch":3.3,"zoneid":2002,"coords":[15.07,28.76],"areaid":2095,"quests":[67856],"alts":[1017171]},"partials":[{"type":"quest","id":"67856","obj":{"i":67856,"n":"Tricks and Stones","g":37,"l":2002,"s":1,"f":1}},{"type":"npc","id":"1017171","obj":{"i":1017171,"n":"Mogek The Marvelous","l":2002,"q":30,"k":3}}]}

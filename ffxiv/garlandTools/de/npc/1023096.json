@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Freundlich[a] Kojin","id":1023096,"patch":4.0,"zoneid":2409,"coords":[29.95,15.79],"areaid":2769,"quests":[68244],"alts":[1023097]},"partials":[{"type":"quest","id":"68244","obj":{"i":68244,"n":"Schätze des Meeres","g":71,"l":2409,"s":3120}},{"type":"npc","id":"1023097","obj":{"i":1023097,"n":"Freundlich[a] Kojin","l":2409,"q":1}}]}

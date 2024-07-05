@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Prêtre Du 175e Ordre","id":1009157,"patch":2.35,"zoneid":350,"coords":[25.77,16.97],"areaid":242,"quests":[67006]},"partials":[{"type":"quest","id":"67006","obj":{"i":67006,"n":"Désordre au 789e ordre","g":49,"l":33,"s":6}}]}

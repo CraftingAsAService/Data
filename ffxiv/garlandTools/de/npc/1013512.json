@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Schnatter-Mogry","id":1013512,"patch":3.0,"zoneid":2002,"coords":[11.56,26.63],"areaid":2046,"quests":[67381],"alts":[1013509]},"partials":[{"type":"quest","id":"67381","obj":{"i":67381,"n":"Die Abenteurer von Ohl Tahn","g":63,"l":2002,"s":5515}},{"type":"npc","id":"1013509","obj":{"i":1013509,"n":"Schnatter-Mogry","l":2002,"q":1}}]}

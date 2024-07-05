@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Lithomancienne Ananta","id":1025051,"patch":4.2,"zoneid":2406,"coords":[22.52,27.51],"areaid":2632,"quests":[68578]},"partials":[{"type":"quest","id":"68578","obj":{"i":68578,"n":"Une prédiction, et ça repart","g":20,"l":2406,"s":21,"r":1}}]}

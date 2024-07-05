@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Gyokei","id":1024423,"patch":4.1,"zoneid":2410,"coords":[16.04,31.31],"areaid":2800,"quests":[68514],"alts":[1024343]},"partials":[{"type":"quest","id":"68514","obj":{"i":68514,"n":"True-blue","g":21,"l":2409,"s":6,"f":1}},{"type":"npc","id":"1024343","obj":{"i":1024343,"n":"Gyokei","l":2410,"q":1}}]}

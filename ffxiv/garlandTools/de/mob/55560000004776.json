@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Sephirot","id":55560000004776,"quest":1,"zoneid":2256,"lvl":"60","drops":[13059],"instance":20037},"partials":[{"type":"item","id":"13059","obj":{"i":13059,"n":"Sephirot-Harz","l":180,"c":3165,"t":54}},{"type":"instance","id":"20037","obj":{"i":20037,"n":"Götterdämmerung - Sephirot","c":61804,"t":"Prüfungen","min_lvl":60,"max_lvl":60,"min_ilvl":190}}]}

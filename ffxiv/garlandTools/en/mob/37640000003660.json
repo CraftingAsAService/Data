@@ -1,0 +1,1 @@
+﻿{"mob":{"name":"Ravana","id":37640000003660,"quest":1,"zoneid":2081,"lvl":"53","drops":[12258],"instance":20031},"partials":[{"type":"item","id":"12258","obj":{"i":12258,"n":"Ravana's Forewing","l":150,"c":7016,"t":51}},{"type":"instance","id":"20031","obj":{"i":20031,"n":"Thok ast Thok (Hard)","c":61804,"t":"Trials","min_lvl":53,"max_lvl":54}}]}

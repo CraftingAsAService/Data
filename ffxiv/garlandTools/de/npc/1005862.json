@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Zufluchts-Sylphe","id":1005862,"patch":2.1,"zoneid":55,"coords":[26.78,19.94],"areaid":77,"quests":[66819]},"partials":[{"type":"quest","id":"66819","obj":{"i":66819,"n":"Wiegenrettung","g":26,"l":55,"s":0,"r":1}}]}

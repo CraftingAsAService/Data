@@ -1,0 +1,175 @@
+level	type	location	coordinates
+5	Mature Tree	North Shroud	28 x 26
+5	Mature Tree	North Shroud	25 x 27
+5	Mature Tree	Central Shroud	23 x 18
+10	Mature Tree	Central Thanalan	22 x 26
+10	Mature Tree	Central Shroud	25 x 20
+10	Mature Tree	North Shroud	27 x 24
+10	Mature Tree	Lower La Noscea	32 x 16
+15	Lush Vegetation Patch	Central Shroud	18 x 19
+15	Lush Vegetation Patch	Central Shroud	22 x 24
+15	Lush Vegetation Patch	Middle La Noscea	22 x 19
+15	Lush Vegetation Patch	Central Thanalan	25 x 20
+15	Mature Tree	Central Shroud	20 x 20
+15	Lush Vegetation Patch	Lower La Noscea	26 x 22
+15	Lush Vegetation Patch	Western Thanalan	23 x 18
+15	Lush Vegetation Patch	Western Thanalan	23 x 23
+20	Mature Tree	Central Thanalan	21 x 20
+20	Mature Tree	Western La Noscea	26 x 23
+20	Mature Tree	Lower La Noscea	34 x 17
+20	Lush Vegetation Patch	Western La Noscea	31 x 28
+20	Lush Vegetation Patch	Eastern Thanalan	16 x 27
+20	Lush Vegetation Patch	East Shroud	18 x 28
+20	Mature Tree	East Shroud	15 x 27
+25	Mature Tree	South Shroud	Quarrymill 23 x 21
+25	Lush Vegetation Patch	Eastern Thanalan	14 x 20
+25	Lush Vegetation Patch	Upper La Noscea	14 x 24
+30	Mature Tree	South Shroud	16 x 21
+30	Mature Tree	North Shroud	27 x 22
+30	Mature Tree	Central Shroud	24 x 30
+30	Mature Tree	Central Thanalan	24 x 31
+30	Mature Tree	Middle La Noscea	16 x 13
+30	Mature Tree	Eastern La Noscea	28 x 33
+30	Mature Tree	South Shroud	26 x 19
+30	Lush Vegetation Patch	North Shroud	22 x 25
+35	Lush Vegetation Patch	Southern Thanalan	Little Ala_Mhigo 20 x 7
+35	Lush Vegetation Patch	Eastern La Noscea	Costa Del Sol 26 x 30
+35	Lush Vegetation Patch	South Shroud	17 x 28
+35	Mature Tree	South Shroud	Camp Tranquill 16 x 30
+40	Mature Tree	Eastern La Noscea	Wineport 19 x 25
+40	Lush Vegetation Patch	Eastern La Noscea	Wineport 21 x 29
+40	Lush Vegetation Patch	South Shroud	21 x 29
+45	Mature Tree	Coerthas Central Highlands	23 x 17
+45	Lush Vegetation Patch	Upper La Noscea	35 x 24
+50	Mature Tree	East Shroud	16 x 23
+50	Lush Vegetation Patch	Southern Thanalan	13 x 31
+50	Mature Tree	Eastern La Noscea	17 x 32
+50	Mature Tree	Central Thanalan	29 x 19
+50	Mature Tree	Middle La Noscea	19 x 21
+50	Mature Tree	Coerthas Western Highlands	30 x 32
+55	Lush Vegetation Patch	Coerthas Western Highlands	17 x 16
+55	Lush Vegetation Patch	The Dravanian Forelands	36 x 20
+55	Mature Tree	The Dravanian Forelands	25 x 25
+55	Lush Vegetation Patch	The Churning Mists	20 x 21
+60	Mature Tree	The Sea of Clouds	25 x 34
+60	Mature Tree	The Churning Mists	31 x 30
+60	Lush Vegetation Patch	The Dravanian Forelands	10 x 33
+60	Lush Vegetation Patch	Coerthas Western Highlands	12 x 14
+60	Lush Vegetation Patch	The Churning Mists	20 x 31
+60	Lush Vegetation Patch	The Sea of Clouds	23 x 10
+60	Lush Vegetation Patch	The Dravanian Hinterlands	14 x 19
+60	Lush Vegetation Patch	The Fringes	16 x 7
+60	Lush Vegetation Patch	The Peaks	13 x 7
+60	Lush Vegetation Patch	The Ruby Sea	37 x 18
+60	Lush Vegetation Patch	The Azim Steppe	10 x 13
+60	Lush Vegetation Patch	The Azim Steppe	24 x 20
+60	Lush Vegetation Patch	The Azim Steppe	20 x 4
+60	Lush Vegetation Patch	The Azim Steppe	33 x 2
+60	Lush Vegetation Patch	The Azim Steppe	33 x 2
+65	Mature Tree	The Fringes	10 x 16
+65	Lush Vegetation Patch	The Fringes	11 x 26
+65	Lush Vegetation Patch	Coerthas Western Highlands	32 x 15
+65	Lush Vegetation Patch	The Peaks	13 x 11
+65	Lush Vegetation Patch	The Ruby Sea	26 x 19
+65	Lush Vegetation Patch	The Ruby Sea	7 x 8
+65	Lush Vegetation Patch	The Churning Mists	8 x 15
+65	Mature Tree	The Ruby Sea	20 x 9
+65	Mature Tree	Yanxia	36 x 15
+70	Mature Tree	The Fringes	10 x 30
+70	Lush Vegetation Patch	The Ruby Sea	11 x 13
+70	Lush Vegetation Patch	The Azim Steppe	14 x 26
+70	Lush Vegetation Patch	Yanxia	22 x 10
+70	Lush Vegetation Patch	The Peaks	26 x 27
+70	Mature Tree	The Lochs	26 x 9
+70	Lush Vegetation Patch	Amh Araeng	31 x 15
+75	Mature Tree	Lakeland	36 x 24
+75	Lush Vegetation Patch	Lakeland	16 x 23
+75	Mature Tree	Kholusia	27 x 22
+75	Lush Vegetation Patch	Kholusia	17 x 26
+75	Mature Tree	Il Mheg	30 x 5
+75	Lush Vegetation Patch	Il Mheg	11 x 24
+75	Mature Tree	The Rak'tika Greatwood	12 x 20
+75	Lush Vegetation Patch	The Rak'tika Greatwood	16 x 29
+80	Lush Vegetation Patch	Lakeland	23 x 34
+80	Mature Tree	Lakeland	8 x 9
+80	Lush Vegetation Patch	Kholusia	12 x 14
+80	Mature Tree	Amh Araeng	15 x 30
+80	Lush Vegetation Patch	The Rak'tika Greatwood	24 x 28
+5	Mineral Deposit	Central Thanalan	18 x 25
+5	Mineral Deposit	Central Thanalan	24 x 26
+5	Mineral Deposit	Western Thanalan	26 x 25
+10	Mineral Deposit	Central Thanalan	20 x 22
+10	Mineral Deposit	Western Thanalan	22 x 28
+10	Mineral Deposit	Lower La Noscea	27 x 18
+10	Mineral Deposit	North Shroud	28 x 25
+15	Rocky Outcrop	Central Thanalan	14 x 23
+15	Rocky Outcrop	Western Thanalan	24 x 18
+15	Mineral Deposit	Western Thanalan	27 x 17
+20	Mineral Deposit	North Shroud	29 x 22
+20	Mineral Deposit	Eastern Thanalan	17 x 20
+20	Mineral Deposit	Western La Noscea	29 x 22
+20	Rocky Outcrop	Middle La Noscea	15 x 10
+20	Rocky Outcrop	Western La Noscea	26 x 24
+25	Rocky Outcrop	Upper La Noscea	12 x 23
+25	Rocky Outcrop	South Shroud	23 x 21
+25	Mineral Deposit	South Shroud	15 x 19
+30	Rocky Outcrop	Eastern Thanalan	23 x 19
+30	Rocky Outcrop	Western Thanalan	23 x 23
+30	Rocky Outcrop	Western La Noscea	31 x 28
+30	Rocky Outcrop	Lower La Noscea	26 x 15
+30	Rocky Outcrop	East Shroud	20 x 27
+30	Rocky Outcrop	Southern Thanalan	18 x 11
+30	Mineral Deposit	Eastern Thanalan	26 x 17
+30	Rocky Outcrop	Southern Thanalan	22 x 29
+30	Rocky Outcrop	Upper La Noscea	12 x 26
+35	Mineral Deposit	Eastern La Noscea	28 x 27
+35	Mineral Deposit	Central Shroud	14 x 21
+35	Rocky Outcrop	Southern Thanalan	17 x 18
+35	Mineral Deposit	Southern Thanalan	25 x 41
+40	Mineral Deposit	Coerthas Central Highlands	24 x 19
+40	Mineral Deposit	South Shroud	28 x 22
+40	Rocky Outcrop	Northern Thanalan	21 x 28
+45	Mineral Deposit	Upper La Noscea	30 x 25
+45	Rocky Outcrop	Upper La Noscea	28 x 22
+45	Mineral Deposit	Eastern Thanalan	12 x 19
+50	Mineral Deposit	Northern Thanalan	22 x 24
+50	Rocky Outcrop	Lower La Noscea	22 x 34
+50	Rocky Outcrop	Western Thanalan	18 x 28
+50	Rocky Outcrop	East Shroud	18 x 24
+50	Rocky Outcrop	Western La Noscea	34 x 28
+50	Mineral Deposit	Coerthas Western Highlands	28 x 27
+55	Mineral Deposit	Coerthas Western Highlands	31 x 12
+55	Rocky Outcrop	Coerthas Western Highlands	16 x 12
+55	Mineral Deposit	Coerthas Western Highlands	22 x 35
+55	Mineral Deposit	The Dravanian Forelands	30 x 16
+55	Mineral Deposit	The Dravanian Forelands	27 x 31
+60	Rocky Outcrop	The Churning Mists	29 x 18
+60	Rocky Outcrop	The Azim Steppe	20 x 14
+60	Rocky Outcrop	The Azim Steppe	25 x 20
+60	Rocky Outcrop	The Azim Steppe	33 x 32
+60	Rocky Outcrop	The Azim Steppe	11 x 13
+60	Rocky Outcrop	The Azim Steppe	35 x 11
+60	Mineral Deposit	The Dravanian Hinterlands	27 x 24
+60	Mineral Deposit	The Sea of Clouds	33 x 31
+60	Mineral Deposit	Coerthas Western Highlands	23 x 30
+60	Mineral Deposit	The Dravanian Forelands	20 x 26
+60	Mineral Deposit	The Fringes	15 x 12
+60	Mineral Deposit	The Ruby Sea	17 x 33
+65	Rocky Outcrop	The Churning Mists	34 x 5
+65	Rocky Outcrop	The Peaks	21 x 13
+65	Rocky Outcrop	Ruby Sea	14 x 16
+65	Mineral Deposit	Ruby Sea	25 x 35
+65	Mineral Deposit	The Fringes	23 x 13
+65	Mineral Deposit	Yanxia	33 x 22
+70	Mineral Deposit	Yanxia	36 x 19
+70	Mineral Deposit	The Azim Steppe	29 x 15
+70	Mineral Deposit	The Lochs	10 x 18
+70	Rocky Outcrop	Amh Araeng	30 x 25
+75	Mineral Deposit	Il Mheg	8 x 20
+75	Mineral Deposit	Lakeland	26 x 34
+75	Rocky Outcrop	Kholusia	21 x 30
+75	Rocky Outcrop	The Rak'tika Greatwood	17 x 19
+80	Mineral Deposit	Lakeland	35 x 16
+80	Mineral Deposit	The Rak'tika Greatwood	23 x 28
+80	Rocky Outcrop	Kholusia	22 x 16
+80	Rocky Outcrop	Amh Araeng	15 x 12

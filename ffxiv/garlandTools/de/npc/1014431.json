@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Zappel-Mogry","id":1014431,"patch":3.0,"zoneid":2002,"coords":[21.03,25.91],"areaid":2238,"quests":[67360]},"partials":[{"type":"quest","id":"67360","obj":{"i":67360,"n":"Der mutigste Mogry im ganzen Mogryversum","g":63,"l":2002,"s":5415}}]}

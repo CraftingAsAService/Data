@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Camelot","id":1016838,"patch":3.2,"zoneid":2000,"coords":[23.8,19.14],"areaid":2021,"quests":[67791],"alts":[1016804]},"partials":[{"type":"quest","id":"67791","obj":{"i":67791,"n":"Le Vathe sans nom","g":35,"l":2000,"s":1,"f":1}},{"type":"npc","id":"1016804","obj":{"i":1016804,"n":"Camelot","l":2000,"s":2,"k":1,"r":1,"a":2021,"c":[23.68,19.1]}}]}

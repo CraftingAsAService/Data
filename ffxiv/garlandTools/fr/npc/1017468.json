@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"Mog Gardien","id":1017468,"patch":3.3,"zoneid":2002,"coords":[19.05,23.65],"areaid":2015,"quests":[67855],"alts":[1017469]},"partials":[{"type":"quest","id":"67855","obj":{"i":67855,"n":"Rugissement dynamisant","g":38,"l":2002,"s":38,"r":1}},{"type":"npc","id":"1017469","obj":{"i":1017469,"n":"Mog Gardien","l":2002,"q":1}}]}

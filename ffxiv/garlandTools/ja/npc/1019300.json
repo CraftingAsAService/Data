@@ -1,0 +1,1 @@
+﻿{"npc":{"name":"ギョエン","id":1019300,"patch":4.0,"zoneid":2410,"coords":[15.12,31.73],"areaid":2800,"quests":[68278],"talk":[{"lines":["All of the Namazu here are quite civilized. Very dignified, very sophisticated. The bells you see at our necks are proof enough of that."]}]},"partials":[{"type":"quest","id":"68278","obj":{"i":68278,"n":"文明開化の音","g":72,"l":2410,"s":4180}}]}
